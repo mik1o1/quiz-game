@@ -3,6 +3,9 @@ import MainHome from '@/components/Home/MainHome'
 import GameModes from '@/components/Home/GameModes'
 import Categories from '@/components/Home/Categories'
 import { useEffect } from 'react'
+import DataLoader from '@/components/DataLoader'; // Adjust the import path as necessary
+
+
 
 export default function Main () {
 	useEffect(() => { window.onbeforeunload = () => null }, [])
@@ -10,8 +13,9 @@ export default function Main () {
 	return (
 		<>
 			<Head>
-				<title>Quizi</title>
+				<title>Chewata Trivia</title>
 			</Head>
+			<DataLoader /> {/* This will refresh data on load */}
 			<MainHome />
 			<GameModes />
 			<Categories />

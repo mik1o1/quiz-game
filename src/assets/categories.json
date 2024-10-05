@@ -1,42 +1,14 @@
 [
-	{
-		"id": "aa",
-		"name": "History",
-		"color": "#e6c642"
-	},
-	{
-		"id": "ab",
-		"name": "Entertainment",
-		"color": "#f94e4e"
-	},
-	{
-		"id": "ac",
-		"name": "Technology",
-		"color": "#685af5"
-	},
-	{
-		"id": "ad",
-		"name": "Geography",
-		"color": "#3ce956"
-	},
-	{
-		"id": "ae",
-		"name": "Art",
-		"color": "#307de7"
-	},
-	{
-		"id": "af",
-		"name": "Space",
-		"color": "#a656fd"
-	},
-	{
-		"id": "ah",
-		"name": "Science",
-		"color": "#e857ed"
-	},
-	{
-		"id": "ag",
-		"name": "General culture",
-		"color": "#56cfef"
-	}
+  {
+    "id": 2,
+    "name": "እንቆቅልሽ",
+    "color": "#ff9879",
+    "created_at": "2024-10-04T16:12:58.975734"
+  },
+  {
+    "id": 6,
+    "name": "gvgvgvgvbbbb",
+    "color": "#ff6787",
+    "created_at": "2024-10-05T00:46:04.454944"
+  }
 ]
