@@ -30,7 +30,7 @@ export default function Play () {
 
 	return (
 		<>
-			<Head><title>Quizi | Play</title></Head>
+			<Head><title>Chewata Trivia | Play</title></Head>
 			{loading && <PageLoading />}
 			{error[0] && <PageError />}
 			{!loading && !error[0] && <>
